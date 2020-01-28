@@ -1,0 +1,1 @@
+﻿Remove-Item -path C:\Alumnos\* -recurse
